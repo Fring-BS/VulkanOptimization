@@ -49,5 +49,5 @@ If you are facing any lag, performance drops, or game crashes, please do not spa
 ---
 
 <div align="center">
-  <p>Maintained with ❤️ by <b>Fring-BS</b></p>
+  <p>Maintained with ❤️ by <b>Fring</b></p>
 </div>
