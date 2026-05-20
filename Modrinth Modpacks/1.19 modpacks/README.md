@@ -3,15 +3,15 @@
 Welcome! This folder contains the official configuration package for this specific Minecraft version.
 
 ### How to get the Source Code / Configs?
-Since Modrinth uses the `.mrpack` format, the entire source code, mod lists, and optimization configs are already baked right into the file. You don't need any special tools to open it!
+Since Modrinth uses the `.mrpack` format, you cannot just rename it to zip. You need to convert it properly to get the complete source code, configs, and mod files.
 
-**Here is the quick trick:**
-1. Download the `.mrpack` file from this folder.
-2. **Rename** the file extension from `.mrpack` to `.zip` (e.g., `pack.mrpack` ➡️ `pack.zip`).
-3. Extract the `.zip` file using WinRAR or 7-Zip... **and here you go, you have the full source code!**
+**Here is the exact way to do it:**
+1. Download the `.mrpack` file from this version folder.
+2. Go to the online converter tool linked below.
+3. Upload your `.mrpack` file there, and it will automatically convert it into a proper `.zip` containing your full source code! 🛠️
 
 ---
 
-### Quick Links
-* **Main Project Page:** [Modrinth](https://modrinth.com/modpack/vulkan-optimization)
+### Links
 * **Converter Tool:** [Modrinth Pack to Zip Converter](https://mrpacktozip.playdown.in/)
+* **Main Project Page:** [Modrinth](https://modrinth.com/modpack/vulkan-optimization)
