@@ -50,7 +50,10 @@ If you are facing any lag, performance drops, or game crashes, please do not spa
 📌 **Report Here:** [GitHub Issues Page](https://github.com/Fring-BS/VulkanOptimization/issues)
 
 ---
-
 <div align="center">
-  <p>Maintained with ❤️ by <b>Fring</b></p>
+  <small>
+    © 2026 <strong>Vulkan Optimization Project</strong> — Maintained by <strong>Fring</strong>.
+    <br>
+    Distributed under the <strong>MIT License</strong>. Built with 💖 for the Minecraft Community.
+  </small>
 </div>
