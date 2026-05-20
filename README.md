@@ -32,11 +32,11 @@ Click the badges below to visit our official modpack pages, download the latest 
 
 To make things easy to find, our project is organized by platforms and Minecraft versions:
 
-* **📁 `Modrinth Modpacks/`** - Contains the `.mrpack` files for all supported versions.
+* **📁 `Modpacks/`** - Contains the `.mrpack` files for all supported versions.
   * `📁 1.19 modpacks/` — Core configuration for Minecraft 1.19
   * `📁 1.20 modpacks/` — Core configuration for Minecraft 1.20
   * `📁 1.21 modpacks/` — Core configuration for Minecraft 1.21
-  * `📁 26 modpacks/` — Core configuration for version 26 / experimental
+  * `📁 26 modpacks/` — Core configuration for version 26.1
 
 ---
 
