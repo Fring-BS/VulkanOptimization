@@ -1,6 +1,10 @@
-# ⚡ Vulkan Optimization (Official Repository)
-
-Welcome to the official repository for **Vulkan Optimization**, the ultimate Minecraft performance enhancement pack designed to unlock insane FPS and eliminate lag using Vulkan rendering technology!
+HTML
+<div align="center">
+  <img src="PASTE_YOUR_LOGO_IMAGE_LINK_HERE" alt="Vulkan Optimization Logo" width="150">
+  
+  # ⚡ Vulkan Optimization (Official Repository)
+  <p>The ultimate Minecraft performance enhancement pack designed to unlock insane FPS!</p>
+</div>
 
 ---
 
