@@ -2,7 +2,7 @@
   <img src="https://cdn.modrinth.com/data/cached_images/078437b97b9191b056878989c9e5adc802c147b4.png" alt="Vulkan Optimization Logo" width="150">
   
   # Vulkan Optimization (Official Repository)
-  <p>The ultimate Minecraft performance enhancement pack designed to unlock insane FPS!</p>
+  <p>An open-source Minecraft performance modpack that replaces the old OpenGL with the new Vulkan API to boost up your FPS!</p>
 </div>
 
 ---
