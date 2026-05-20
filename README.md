@@ -20,7 +20,7 @@ Welcome to the official repository for **Vulkan Optimization**, the ultimate Min
 Click the badges below to visit our official modpack pages, download the latest stable releases, or check experimental builds:
 
 <a href="https://modrinth.com/modpack/vulkan-optimization">
-  <img src="https://cdn.modrinth.com/data/cached_images/bffb9cba81db4c5fb2532f51615f95719bbcf0ca.png" alt="Available for Modrinth" width="330">
+  <img src="https://cdn.modrinth.com/data/cached_images/bffb9cba81db4c5fb2532f51615f95719bbcf0ca.png" alt="Available for Modrinth" width="340">
 </a>
  <a href="https://www.curseforge.com/minecraft/modpacks/vulkan-optimization">
   <img src="https://cdn.modrinth.com/data/cached_images/c01de9efbd875576ae59646f98bd79ce001782d5.png" alt="Available for CurseForge" width="340">
