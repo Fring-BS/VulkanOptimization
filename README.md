@@ -39,7 +39,7 @@ To make things easy to find, our project is organized by platforms and Minecraft
   * `📁 1.19 modpacks/` — Core configuration for Minecraft 1.19
   * `📁 1.20 modpacks/` — Core configuration for Minecraft 1.20
   * `📁 1.21 modpacks/` — Core configuration for Minecraft 1.21
-  * `📁 26 modpacks/` — Core configuration for version 26.1
+  * `📁 26.1 modpacks/` — Core configuration for version 26.1
 
 ---
 
