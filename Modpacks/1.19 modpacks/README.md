@@ -13,5 +13,5 @@ Since Modrinth uses the `.mrpack` format, you cannot just rename it to zip. You 
 ---
 
 ### Links
-* **Converter Tools:** [Modrinth Pack to Zip Converter](https://mrpacktozip.playdown.in/) or [browser-based MRPACK to ZIP converter](https://mrpacktozip.net/)
+* **Converter Tool:** [Modrinth Pack to Zip Converter](https://mrpacktozip.playdown.in/)
 * **Main Project Page:** [Modrinth](https://modrinth.com/modpack/vulkan-optimization)
